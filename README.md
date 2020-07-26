@@ -15,4 +15,4 @@ Pass the file name as the argument while executing the convert.py file.
 
 Command is as follows: python3 convert.py fileName.xlsx
 
-I tested this program on 2500 contacts and it works fine.
+I tested this program on 2500 contacts and it works fine on importing to mobile.
